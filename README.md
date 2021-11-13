@@ -15,13 +15,13 @@ Apaixonado por tecnologia e nos efeitos da transformação que ela traz a humani
   <img aligh="center" alt="Kotlin" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
-### Esses são os meus aplicativos publicados na Google Play.
+### Esses são meus aplicativos publicados na Google Play.
 
 - [Mercadinho - Java](https://play.google.com/store/apps/details?id=daniellopes.mercadinho.mercado&hl=pt_BR&gl=US)
 - [Missa para Músicos - Kotlin](https://play.google.com/store/apps/details?id=daniellopes.io.massapp&hl=pt_BR&gl=US)
 
 
-### Esses são os cursos publicados na plataforma Udemy.
+### Esses são meus cursos publicados na plataforma Udemy.
 
 [![Blog](https://img.shields.io/website?label=APPNews&style=for-the-badge&url=https://www.udemy.com/course/app-news-com-kotlim-e-mvp/)](https://www.udemy.com/course/app-news-com-kotlim-e-mvp/)
 [![Blog](https://img.shields.io/website?label=MARVELAPP&style=for-the-badge&url=https://www.udemy.com/course/marvel-app/)](https://www.udemy.com/course/marvel-app/)
