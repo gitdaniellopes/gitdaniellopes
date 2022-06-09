@@ -12,7 +12,6 @@ Apaixonado por tecnologia e nos efeitos da transformação que ela traz a humani
 <div style="display: inline-block">
   <img aligh="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img aligh="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img aligh="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
 ### Esses são meus aplicativos publicados na Google Play.
