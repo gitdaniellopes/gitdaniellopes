@@ -14,7 +14,7 @@ Apaixonado por tecnologia e nos efeitos da transformação que ela traz a humani
   <img aligh="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div><br/>
 
-### Esses são meus aplicativos publicados na Google Play.
+### Meu aplicativo publicado na Google Play.
 
 - [Kipp](https://play.google.com/store/apps/details?id=br.com.kipp)
 
