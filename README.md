@@ -17,7 +17,6 @@ Apaixonado por tecnologia e nos efeitos da transformação que ela traz a humani
 ### Esses são meus aplicativos publicados na Google Play.
 
 - [Kipp](https://play.google.com/store/apps/details?id=br.com.kipp)
-- [Missa para Músicos](https://play.google.com/store/apps/details?id=daniellopes.io.massapp&hl=pt_BR&gl=US)
 
 
 ### Esses são meus cursos publicados na plataforma Udemy.
