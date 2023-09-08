@@ -19,7 +19,9 @@ Apaixonado por tecnologia e nos efeitos da transformação que ela traz a humani
 - [Kipp](https://play.google.com/store/apps/details?id=br.com.kipp)
 
 
+
 ### Esses são meus cursos
 
 [![Blog](https://img.shields.io/website?label=MOVIEAPP&style=for-the-badge&url=https://cursos.daniellopes-desenvolvedor.com.br/movieapp/)](https://cursos.daniellopes-desenvolvedor.com.br/movieapp/)
+[![Blog](https://img.shields.io/website?label=MOVIEAPP&style=for-the-badge&url=https://cursos.daniellopes-desenvolvedor.com.br/ktorapi/)](https://cursos.daniellopes-desenvolvedor.com.br/ktorapi/)
 [![Blog](https://img.shields.io/website?label=MARVELAPP&style=for-the-badge&url=https://www.udemy.com/course/marvel-app/)](https://www.udemy.com/course/marvel-app/)
